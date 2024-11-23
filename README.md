@@ -2,12 +2,9 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikky0218&label=Profile%20views&color=0e75b6&style=flat" alt="vikky0218" /> </p>
-
-- 🔭 I’m currently working on [Med_Preserve Data Acquisition System](https://github.com/vikky0218/MED-Preserve)
-
 - 🌱 I’m currently learning **MVC & Entity Framework**
 
-- 📫 How to reach me **itzvikky02@gmail.com**
+- 📫 How to reach me **vikkytech0218@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
