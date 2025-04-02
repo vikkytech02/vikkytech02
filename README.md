@@ -1,44 +1,50 @@
-<h1 align="center">Hi 👋, I'm Vikas Yadav</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+# Hi there, I'm Vikas Pradeep Yadav! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikky0218&label=Profile%20views&color=0e75b6&style=flat" alt="vikky0218" /> </p>
-- 🌱 I’m currently learning **MVC & Entity Framework**
+I'm a passionate web developer with a knack for building responsive and user-friendly websites. My expertise extends beyond web development into IoT, where I've successfully built smart automation systems. I love solving problems and creating efficient digital solutions!
 
-- 📫 How to reach me **vikkytech0218@gmail.com**
+## 🚀 Technical Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.facebook.com/itzvikky02" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/_its_vikky_/?hl=en" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/itzvikky/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
+### 💻 Programming Languages
+- C++
+- C#
+- Python
+- Java
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</p>
+### 🌐 Web Technologies
+- HTML
+- CSS
+- JavaScript
+- WordPress
+- ASP.NET Core
+- React
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikky0218&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikky0218&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+### 🛠️ Tools
+- VB.NET Framework
+- Eclipse IDE
+- Arduino IDE
+- Fritzing
+- MS Office
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikky0218&theme=default" alt="GitHub Streak" />
-</p>
+### 🗄️ Database Management
+- Microsoft SQL Server
+- MySQL
+
+### 🎨 Design and Multimedia
+- Blender
+- Photoshop
+- Filmora
+- OBS Studio
+- Microsoft Clipchamp
+- Figma
+
+### 🖥️ Operating Systems
+- Windows
+- Linux (Ubuntu)
+- macOS
+
+## 📫 Connect with Me
+- LinkedIn: [Vikas Yadav](https://www.linkedin.com/in/vikas-yadav0201/)
+- GitHub: [vikky02](https://github.com/vikky02)
+- Email: [vikkytech02@gmail.com](mailto:vikkytech02@gmail.com)
+
+Let's build something amazing together! 🚀
